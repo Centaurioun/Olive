@@ -6,4 +6,4 @@ torch==1.13.1 # torch2 exports aten::scaled_dot_product_attention, which isn't s
 torchvision==0.14.1
 pillow
 onnxruntime-directml>=1.15.0
-protobuf==3.20.3 # protobuf 4.x aborts with OOM when optimizing unet
+protobuf==4.25.8 # protobuf 4.x aborts with OOM when optimizing unet
