@@ -1,4 +1,4 @@
-onnx==1.14.0
+onnx==1.21.0rc1
 onnxruntime>=1.15.0
 onnxruntime-extensions>=0.8.0
 torch>=1.13.1
